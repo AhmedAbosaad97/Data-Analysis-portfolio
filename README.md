@@ -1,4 +1,4 @@
-Excel project
+# Excel project
 
 **☕ Coffee Chain Sales Analysis – Uncovering Key Retail Trends**
 I recently analyzed a coffee chain’s retail sales dataset using MS Excel to extract actionable insights. Here’s a breakdown of my process and findings:
